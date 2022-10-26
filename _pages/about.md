@@ -70,9 +70,11 @@ The bridge will overview the role of AI in modeling various aspects of climate -
             path="assets/img/12.jpg"
             alt="avatar aditya" -%}
       </div>
-      <div class="card-body">
-        <h2 class="card-title">Aditya Grover</h2>
-        <p class="card-text">Bridge Chair, UCLA</p>
+      <div class="col-md-6">
+        <div class="card-body">
+          <h2 class="card-title">Aditya Grover</h2>
+          <p class="card-text">Bridge Chair, UCLA</p>
+        </div>
       </div>
     </div>
   </div>
