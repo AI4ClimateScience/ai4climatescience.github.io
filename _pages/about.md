@@ -65,6 +65,9 @@ The bridge will overview the role of AI in modeling various aspects of climate -
 <div class="grid-sizer"></div>
 <div class="grid-item">
   <div class="card hoverable">
+    {%- include figure.html
+          path="assets/img/12.jpg"
+          alt="avatar aditya" -%}
     <div class="card-body">
       <h2 class="card-title">Aditya Grover</h2>
       <p class="card-text">Bridge Chair, UCLA</p>
@@ -74,6 +77,9 @@ The bridge will overview the role of AI in modeling various aspects of climate -
 <div class="grid-sizer"></div>
 <div class="grid-item">
   <div class="card hoverable">
+    {%- include figure.html
+          path="assets/img/12.jpg"
+          alt="avatar jayesh" -%}
     <div class="card-body">
       <h2 class="card-title">Jayesh K. Gupta</h2>
       <p class="card-text">Microsoft</p>
@@ -83,6 +89,9 @@ The bridge will overview the role of AI in modeling various aspects of climate -
 <div class="grid-sizer"></div>
 <div class="grid-item">
   <div class="card hoverable">
+    {%- include figure.html
+          path="assets/img/12.jpg"
+          alt="avatar ashish" -%}
     <div class="card-body">
       <h2 class="card-title">Ashish Kapoor</h2>
       <p class="card-text">Microsoft</p>
@@ -92,6 +101,9 @@ The bridge will overview the role of AI in modeling various aspects of climate -
 <div class="grid-sizer"></div>
 <div class="grid-item">
   <div class="card hoverable">
+    {%- include figure.html
+          path="assets/img/12.jpg"
+          alt="avatar dev" -%}
     <div class="card-body">
         <h2 class="card-title">Dev Niyogi</h2>
         <p class="card-text">UT Austin</p>
@@ -101,6 +113,9 @@ The bridge will overview the role of AI in modeling various aspects of climate -
 <div class="grid-sizer"></div>
 <div class="grid-item">
   <div class="card hoverable">
+    {%- include figure.html
+          path="assets/img/12.jpg"
+          alt="avatar manmeet" -%}
     <div class="card-body">
       <h2 class="card-title">Manmeet Singh</h2>
       <p class="card-text">Indian Institute of Tropical Meteorology</p>
