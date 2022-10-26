@@ -66,5 +66,26 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
       <p class="card-text">Microsoft</p>
   </div>
 </div>
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <div class="card-body">
+      <h2 class="card-title">Ashish Kapoor</h2>
+      <p class="card-text">Microsoft</p>
+  </div>
+</div>
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <div class="card-body">
+      <h2 class="card-title">Dev Niyogi</h2>
+      <p class="card-text">UT Austin</p>
+  </div>
+</div> 
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <div class="card-body">
+      <h2 class="card-title">Manmeet Singh</h2>
+      <p class="card-text">Indian Institute of Tropical Meteorology</p>
+  </div>
+</div> 
           
 </div>
