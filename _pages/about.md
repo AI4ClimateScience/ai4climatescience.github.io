@@ -28,6 +28,16 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ## Topics
 
+The bridge will overview the role of AI in modeling various aspects of climate -- atmospheric, oceanic, and land processes. For each of these topics, we will include discussions on the available data sources, the currently deployed methods, and (if any) AI approaches that have been explored in prior works. A key part of these discussions will be the limitations on both the data and modeling ends and potential solutions. Some of these questions include:
+
+1. What are the unique biases persisting existing datasets for climate science?
+2. How can we best incorporate physical domain knowledge in AI approaches?
+3. How can we model multimodal climate data spanning satellite imagery, simulation data, weather balloons, etc.?
+4. How robust are machine learning models for weather and climate across space and time?
+5. How can we quantify and calibrate uncertainties for forecasts with machine learning models?
+6. How can we scale AI infrastructure for training and inference to the petabyte-scale climate science datasets available today?
+
+
 ## Format
 
 ## Attendance
