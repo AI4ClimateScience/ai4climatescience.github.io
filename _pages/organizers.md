@@ -3,7 +3,7 @@ layout: page
 title: Organizers
 permalink: /organizers/
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 <div class="container">
     <div class="row justify-content-center">
