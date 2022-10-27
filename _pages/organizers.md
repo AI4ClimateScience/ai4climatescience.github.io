@@ -12,7 +12,7 @@ nav_order: 2
     <div class="card hoverable">
     <div class="card-img col-md-6">
       {%- include figure.html
-            path="assets/img/12.jpg"
+            path="assets/img/Adi.png"
             alt="avatar aditya" -%}
       </div>
       <div class="col-md-6">
@@ -28,7 +28,7 @@ nav_order: 2
     <div class="card hoverable">
         <div class="card-img col-md-6">
         {%- include figure.html
-                path="assets/img/12.jpg"
+                path="assets/img/jkg.jpg"
                 alt="avatar jayesh" -%}
         </div>
         <div class="col-md-6">
@@ -44,7 +44,7 @@ nav_order: 2
     <div class="card hoverable">
     <div class="card-img col-md-6">
       {%- include figure.html
-            path="assets/img/12.jpg"
+            path="assets/img/Ashish_cropped.jpg"
             alt="avatar ashish" -%}
     </div>
     <div class="col-md-6">
@@ -60,7 +60,7 @@ nav_order: 2
     <div class="card hoverable">
     <div class="card-img col-md-6">
       {%- include figure.html
-            path="assets/img/12.jpg"
+            path="assets/img/dev_niyogi_6050_thumb.jpg"
             alt="avatar dev" -%}
     </div>
     <div class="col-md-6">
@@ -76,7 +76,7 @@ nav_order: 2
     <div class="card hoverable">
     <div class="card-img col-md-6">
       {%- include figure.html
-            path="assets/img/12.jpg"
+            path="assets/img/manmeet.jpeg"
             alt="avatar manmeet" -%}
     </div>
     <div class="col-md-6">
