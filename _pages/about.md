@@ -28,7 +28,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <div class="container">
   <div class="row">
-  <div class="col-md-4 px-0">
+  <div class="col-md-12 px-0">
   
     <img src="assets/img/AAAI-23-banner.png" class="img-fluid">
 
