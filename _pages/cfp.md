@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-**Submission deadline**: 18th November 2022, Anywhere on Earth (AoE). Submit on [OpenReview]()
+**Submission deadline**: 18th November 2022, Anywhere on Earth (AoE). Submit on [OpenReview](https://openreview.net/group?id=AAAI.org/2023/Bridge/AICS).
 
 
 Our vision is that through an ongoing cross-disciplinary exchange between community members we can discover diverse ideas that have the potential to advance AI and climate science studies.
