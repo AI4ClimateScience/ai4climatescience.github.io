@@ -28,10 +28,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <div class="container">
   <div class="row">
-  <div class="col">
-  {%- include figure.html
-      path="assets/img/AAAI-23-banner.png"
-      alt="AAAI" -%}
+  <div class="col-md-4 px-0">
+  
+    <img src="assets/img/AAAI-23-banner.png" class="img-fluid">
+
   </div>
   </div>
 </div>
@@ -47,7 +47,7 @@ The bridge will overview the role of AI in modeling various aspects of climate -
 6. How can we scale AI infrastructure for training and inference to the petabyte-scale climate science datasets available today?
 
 
-## Bridge Perspectives and Area of Focus
+<!-- ## Bridge Perspectives and Area of Focus -->
 
 ## Bridge Objectives
 
