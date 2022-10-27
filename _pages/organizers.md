@@ -2,7 +2,6 @@
 layout: page
 title: Organizers
 permalink: /organizers/
-description: Bridge Organizers
 nav: true
 nav_order: 2
 ---

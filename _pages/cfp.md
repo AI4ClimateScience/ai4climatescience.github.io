@@ -2,7 +2,6 @@
 layout: page
 title: Call for Participation
 permalink: /call-for-participation/
-description: Bridge Organizers
 nav: true
 nav_order: 2
 ---
