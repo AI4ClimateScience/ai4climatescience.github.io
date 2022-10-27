@@ -28,9 +28,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <div class="container">
   <div class="row">
+  <div class="col">
   {%- include figure.html
       path="assets/img/AAAI-23-banner.png"
       alt="AAAI" -%}
+  </div>
   </div>
 </div>
 ## Bridge Overview
