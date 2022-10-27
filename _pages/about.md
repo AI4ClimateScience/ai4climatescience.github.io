@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -24,9 +24,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-## Main objectives
+## Bridge Program at AAAI 2023 - February 2023
 
-## Topics
+## Bridge Overview
 
 The bridge will overview the role of AI in modeling various aspects of climate -- atmospheric, oceanic, and land processes. For each of these topics, we will include discussions on the available data sources, the currently deployed methods, and (if any) AI approaches that have been explored in prior works. A key part of these discussions will be the limitations on both the data and modeling ends and potential solutions. Some of these questions include:
 
@@ -38,13 +38,14 @@ The bridge will overview the role of AI in modeling various aspects of climate -
 6. How can we scale AI infrastructure for training and inference to the petabyte-scale climate science datasets available today?
 
 
-## Format
+## Bridge Perspectives and Area of Focus
 
-## Attendance
+## Bridge Objectives
 
-## Submission Requirements
+Climate change has led to a rapid increase in the occurrence of extreme weather events globally, including floods, droughts, and heatwaves. Modeling climate is an essential endeavor to understand the near and long term impacts of climate change, as well as inform tools for mitigation and adaptation. However, first-principles models are limited in their ability to model complex dynamics that dictate weather and climate phenomena. With advancements in sensory technology and machine learning, AI can play a key role in advancing data-driven climate modeling with accurate and high-resolution forecasts of a variety of spatiotemporal phenomena related to weather and climate, such as agriculture yields, natural disasters, and socioeconomic welfare. In this bridge program, we aim to bring together students, researchers, and practitioners in both AI and climate science on topics related to interdisciplinary research and education in applying machine learning methods for climate science. Through an extensive program consisting of hands-on tutorials, paper presentations, and invited talks and panels with domain experts, we aim to familiarize the audience with the most pressing questions in climate science that can benefit from AI, the limitations of current data-driven models (e.g., incorporating physical constraints, quantifying uncertainty, distribution shifts), as well as educational resources and community initiatives for students, researchers, and practitioners in both disciplines.
 
-## Bridge Committee
+
+
 
 <!-- {% if page.horizontal -%}
 <div class="container">
