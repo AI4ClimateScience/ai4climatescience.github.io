@@ -25,10 +25,14 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 ## Bridge Program at AAAI 2023 - February 2023
-{%- include figure.html
-        path="assets/img/AAAI-23-banner.png"
-        alt="avatar dev" -%}
 
+<div class="container">
+  <div class="row">
+  {%- include figure.html
+      path="assets/img/AAAI-23-banner.png"
+      alt="AAAI" -%}
+  </div>
+</div>
 ## Bridge Overview
 
 The bridge will overview the role of AI in modeling various aspects of climate -- atmospheric, oceanic, and land processes. For each of these topics, we will include discussions on the available data sources, the currently deployed methods, and (if any) AI approaches that have been explored in prior works. A key part of these discussions will be the limitations on both the data and modeling ends and potential solutions. Some of these questions include:
