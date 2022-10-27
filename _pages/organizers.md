@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 <div class="container">
-    <div class="row">
+    <div class="row justify-content-center">
         <div class="card hoverable">
             <div class="card-img">
             {%- include figure.html
@@ -22,7 +22,7 @@ nav_order: 2
         </div>
   </div>
 
-  <div class="row">
+  <div class="row align-items-center">
     <div class="col-sm">
         <div class="card hoverable">
             <div class="card-img">
@@ -54,7 +54,7 @@ nav_order: 2
         </div>
     </div>
   </div>
-  <div class="row">
+  <div class="row align-items-center">
     <div class="col-sm">
         <div class="card hoverable">
             <div class="card-img">
