@@ -55,6 +55,9 @@ Climate change has led to a rapid increase in the occurrence of extreme weather 
 
 
 
+## Acknowledgements
+
+Previous version of this CFP contained content from the AAAI bridge on Continual Causality. Please check out their page at: https://www.continualcausality.org/.
 
 <!-- {% if page.horizontal -%}
 <div class="container">
